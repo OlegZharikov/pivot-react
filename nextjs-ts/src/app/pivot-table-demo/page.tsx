@@ -22,7 +22,7 @@ export default function PivotTableDemo() {
             <h1 className="page-title">Pivot Table Demo</h1>
 
             <div className="description-blocks first-description-block">
-                <p>Flexmonster is a fast and powerful JavaScript pivot grid for data visualization and reporting.</p>
+                <p>Hello, Flexmonster is a fast and powerful JavaScript pivot grid for data visualization and reporting.</p>
                 <p>With Flexmonster, you can create reports based on many data sources, including JSON, CSV, MongoDB, and SQL
                     databases.
                     Our component is easy to customize and configure, so it can be seamlessly integrated into any project.
